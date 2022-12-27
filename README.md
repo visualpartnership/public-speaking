@@ -16,6 +16,7 @@
 | 6. The Story Script 💻|
 | 7. Record your talk 📹 |
 | 8. Record you watching you 🪞|
+| 9. The Online Script 🎬 |
 
 # Content Structure 💡
 ## 1. Your talk as an experience ⭐️
@@ -117,7 +118,7 @@ After design all your content you'll be able to add notes in every slide. Altoug
 
 <img width="1276" alt="image" src="https://user-images.githubusercontent.com/17634377/209619643-0ba89f0f-32c0-42dd-bf26-5782a6a5188e.png">
 
-You can read an example here.
+You can read an example: [here](script.pdf).
 </details>
 
 ## 7. Record your talk 📹
@@ -149,3 +150,22 @@ You need to connect first with your content and your way to convey through your 
   <img width="1171" alt="image" src="https://user-images.githubusercontent.com/17634377/209621499-13d898cd-b37f-4891-aba4-f7ec1c78aef7.png">
 </details>
 
+## 9. The Online Script 🎬
+
+When you're speaking in an online presentation you could have to deal with the streaming production, for this cases you can complement your story script:
+
+- Include music sections, videos, screen sharing, live coding.
+- Add the duration per section.
+- If you are the producer, you can include which device you should use.
+- Be as much as detailed possible. Don’t be improvised. 
+- Make your script your safe place.
+- If you're including live coding, consider record your explanations to be on time. 
+
+<details>
+  <summary>Example</summary>
+  <img width="1179" alt="image" src="https://user-images.githubusercontent.com/17634377/209623120-148e3d3e-8c89-45c2-9b53-982914919351.png">
+</details>
+
+## Acknowledgments
+
+Most of this exercises were supervised and designed by [Pedro Kominik](https://twitter.com/PedroKominik).
