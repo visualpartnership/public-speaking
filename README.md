@@ -14,6 +14,8 @@
 |5. Call to Action 🔥|
 | **Speaking 🗣️** |
 | 6. The Story Script 💻|
+| 7. Record your talk 📹 |
+| 8. Record you watching you 🪞|
 
 # Content Structure 💡
 ## 1. Your talk as an experience ⭐️
@@ -116,5 +118,34 @@ After design all your content you'll be able to add notes in every slide. Altoug
 <img width="1276" alt="image" src="https://user-images.githubusercontent.com/17634377/209619643-0ba89f0f-32c0-42dd-bf26-5782a6a5188e.png">
 
 You can read an example here.
+</details>
+
+## 7. Record your talk 📹
+
+After wrote your story script, you'll be to implement many strategies just for you to improve your comunication skills.
+
+1. Record a video of you reading your script in front of your camera. It doesn't matter if you are just reading your script. 
+2. Watch yourself and recognize your speech. Become your own audience. 
+3. Recognize yourself: your voice, your gestures and your movements. (You can practice in front of a mirror.)
+4. Modify your content/slides where you feel that you need more emphasis on your speech. 
+5. Can you achieve all the things that you planned for this talk as an attendee? If your answer is not, this is the moment to add and improve your content. 
+
+**Remember this exercise is just for you.**
+
+## 8. Record you watching you 🪞
+
+You need to connect first with your content and your way to convey through your body, to understand how this process will work in your audiece. Connect with yourself to connect with others.
+
+1. After record your talk in point 7, now you'll have to record you watching your own talk. 
+2. You just need to record your reactions to your talk as a genuine attendee.
+3. You can use any software app to put both recordings, the first one about you as a speaker and the second one as an attendee.
+4. Watch this recording with both recordings. It's important see the whole impact connecting the speaker and the audience through you.
+5. The goal of this exercise is realize how you're delivering your own content and how this is impacting in the audience to improve it better. 
+
+**Remember this exercise is just for you.**
+
+<details>
+  <summary>Example</summary>
+  <img width="1171" alt="image" src="https://user-images.githubusercontent.com/17634377/209621499-13d898cd-b37f-4891-aba4-f7ec1c78aef7.png">
 </details>
 
