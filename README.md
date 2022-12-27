@@ -1,8 +1,8 @@
 ![image](https://user-images.githubusercontent.com/17634377/209588540-11259e58-8dcf-4b39-982f-a39f10c28ecd.png)
 
-# Public Speaking: best practices to improve your communication skills
+# Public Speaking
 
-Content by @carlogilmar. Erlang Solutions, Americas Office.
+*Created by @carlogilmar.*
 
 |Content|
 |---|
