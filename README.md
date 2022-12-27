@@ -99,7 +99,7 @@ Before to finish your presentation, consider share a complement to extend your c
 - Create a small guide with the next steps to learn this. (It could be a tutorial or a blog post)
 - Prepare a set of most common questions with the anwswers.  
 
-You can create a [QR code](https://www.qrcode-monkey.com/) to share easily this. This moment is a great point to interact with the audience. 
+This moment is a great point to interact with the audience. 
 
 # Speaking 🗣️
 ## 6. The Story Script 💻
