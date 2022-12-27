@@ -6,15 +6,16 @@
 
 |Content|
 |---|
-| **Content Structure** |
+| **Content Structure 💡** |
 |1. Your talk as an experience ⭐️|
 |2. Your Audience 🤼‍♂️|
 |3. The Technical Content considerations 🏗️|
 |4. Emphatize through your experience 💖
 |5. Call to Action 🔥|
-| **Speaking** |
+| **Speaking 🗣️** |
+| 6. The Story Script 💻|
 
-# Content Structure
+# Content Structure 💡
 ## 1. Your talk as an experience ⭐️
 
 Sometimes we need to be clear with the goals of our presentation. Start with answer the follow questions allows you to be focused on the main goal of your talk. Remember that have 20-50 minutes is really few time to explain many things. 
@@ -25,13 +26,16 @@ Sometimes we need to be clear with the goals of our presentation. Start with ans
 | 2. Who are your **audience**? (novices, experts, general public, developers, managers, etc...)| Define the people who are you going to talk. |
 | 3. What it's the **main message** that you want to communicate to your audience? | Think on what do you want to encourage the people who are listen to you. |
 
-Example:
+<details>
+  <summary>Example</summary>
 
 | Your Talk Title | The BEAM Processes |
 |:----:|:---:| 
 | What it's the **main topic**? | Show how a BEAM process works. |
 | Who are your **audience**? | Developers with experience in Erlang/Elixir with few knowledge about OTP. |
 | What it's the **main message** that you want to communicate to your audience? | Learn processes it's a great way to start to understand how BEAM works. |
+  
+</details>
 
 ## 2. Define your Audiences 🤼‍♂️
 
@@ -45,13 +49,16 @@ Define the kind of audience that you're looking for motivate about your speech w
 
 Why it's important to define this? Because if you want to be sure more people it's undertanding you, you need to take care of them. Any audience has many different kinds of levels involved. You can planning better your content and make sure everybody is following you during your talk.
 
-Example:
+<details>
+  <summary>Example</summary>
 
 | Audiences | Definition |
 |:----:|:----:|
 | Main audience | Developers with experience in Erlang/Elixir with few knowledge about OTP. |
 | Intermediate Audience | Developers starting his journey in Erlang/Elixir. |
 | Beginner Audience | Developers without any context about the BEAM world. |
+  
+</details>
 
 ## 3. The Technical Content considerations 🏗️
 
@@ -91,8 +98,8 @@ Before to finish your presentation, consider share a complement to extend your c
 
 You can create a [QR code](https://www.qrcode-monkey.com/) to share easily this. This moment is a great point to interact with the audience. 
 
-# Speaking 
-## 6. The Story Script
+# Speaking 🗣️
+## 6. The Story Script 💻
 
 After design all your content you'll be able to add notes in every slide. Altough this could be a hard work, this a great way to improve all your communication skills.
 
@@ -101,7 +108,13 @@ After design all your content you'll be able to add notes in every slide. Altoug
 3. Don't forget add anything that you're going to say here. (It's like TDD!)
 4. Read your script and recognize your speech. Maybe after this step you will want to modify your content. Be your own audience.
 
+<details>
+  <summary>Example</summary>
+
 <img width="1280" alt="image" src="https://user-images.githubusercontent.com/17634377/209619542-6e09e579-a6e2-4dea-9bfd-612bddcbae2c.png">
 
 <img width="1276" alt="image" src="https://user-images.githubusercontent.com/17634377/209619643-0ba89f0f-32c0-42dd-bf26-5782a6a5188e.png">
+
+You can read an example here.
+</details>
 
