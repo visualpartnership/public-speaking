@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/17634377/209588540-11259e58-8dcf-4b39-982f-a39f10c28ecd.png)
+![Ilustración_sin_título 12](https://user-images.githubusercontent.com/17634377/210303711-ae70aeb7-0743-44bf-9595-8f7e47f8b5d1.png)
 
 # Public Speaking
 
@@ -133,24 +133,7 @@ After wrote your story script, you'll be to implement many strategies just for y
 
 **Remember this exercise is just for you.**
 
-## 8. Record you watching you 🪞
-
-You need to connect first with your content and your way to convey through your body, to understand how this process will work in your audiece. Connect with yourself to connect with others.
-
-1. After record your talk in point 7, now you'll have to record you watching your own talk. 
-2. You just need to record your reactions to your talk as a genuine attendee.
-3. You can use any software app to put both recordings, the first one about you as a speaker and the second one as an attendee.
-4. Watch this recording with both recordings. It's important see the whole impact connecting the speaker and the audience through you.
-5. The goal of this exercise is realize how you're delivering your own content and how this is impacting in the audience to improve it better. 
-
-**Remember this exercise is just for you.**
-
-<details>
-  <summary>Example</summary>
-  <img width="1171" alt="image" src="https://user-images.githubusercontent.com/17634377/209621499-13d898cd-b37f-4891-aba4-f7ec1c78aef7.png">
-</details>
-
-## 9. The Online Script 🎬
+## 8. The Online Script 🎬
 
 When you're speaking in an online presentation you could have to deal with the streaming production, for this cases you can complement your story script:
 
@@ -168,4 +151,8 @@ When you're speaking in an online presentation you could have to deal with the s
 
 ## Acknowledgments
 
-Most of this exercises were supervised and designed by [Pedro Kominik](https://twitter.com/PedroKominik).
+Most of this exercises were supervised and co-designed by [Pedro Kominik](https://twitter.com/PedroKominik).
+
+## Important 
+
+You can't reproduce totally or partially this content without an explicit permission by the creator. This content is under GPL-3.0 license.
