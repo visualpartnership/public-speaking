@@ -15,8 +15,7 @@
 | **Speaking 🗣️** |
 | 6. The Story Script 💻|
 | 7. Record your talk 📹 |
-| 8. Record you watching you 🪞|
-| 9. The Online Script 🎬 |
+| 8. The Online Script 🎬 |
 
 # Content Structure 💡
 ## 1. Your talk as an experience ⭐️
