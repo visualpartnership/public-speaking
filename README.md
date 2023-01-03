@@ -4,6 +4,8 @@
 
 *Created by @carlogilmar.*
 
+> I create this guidelines based on my experience as a speaker, developer, trainer, and a graphic recorder. As Graphic Recorder I use to build bridges between the speaker, the content, and the audience into a graphic recording, which it's an illustration to represent the content in a visual traduction. After draw many and many talks in real time I can share the following practices for improve your public speaking. Enjoy, Carlo 😁
+
 |Content|
 |---|
 | **Content Structure 💡** |
