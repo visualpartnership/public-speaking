@@ -150,6 +150,17 @@ When you're speaking in an online presentation you could have to deal with the s
   <img width="1179" alt="image" src="https://user-images.githubusercontent.com/17634377/209623120-148e3d3e-8c89-45c2-9b53-982914919351.png">
 </details>
 
+## Framework to prepare your next talk 🔥
+
+|Steps|
+|-------|
+| 1. Define your talk title |
+| 2. Develop your content structure |
+| 3. Prepare a call to action |
+| 4. Write your script |
+| 5. Record your talk |
+| 6. Improve your experience |
+
 ## Acknowledgments
 
 Most of this exercises were supervised and co-designed by [Pedro Kominik](https://twitter.com/PedroKominik).
